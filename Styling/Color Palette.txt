@@ -1,0 +1,17 @@
+1. Retro
+#FFC567
+#FB7DA8
+#FD5A46
+#552CB7
+#00995E
+#058CD7
+
+2. Green Set
+:root {
+    --primary-color:#3c5f34;
+    --second-color:#628B35;
+    --acsent-color:#103713;
+    --general-color1:#ffff;
+    --general-color2:#e2dbd0;
+    --general-color3:#ffdd;
+  }
